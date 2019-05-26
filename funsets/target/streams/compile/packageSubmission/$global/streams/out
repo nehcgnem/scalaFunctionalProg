@@ -1,0 +1,7 @@
+[info] Packaging C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\funsets\target\scala-2.11\progfun1-funsets_2.11-0.1-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	funsets\FunSets.scala
+[debug] 	  C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\funsets\src\main\scala\funsets\FunSets.scala
+[debug] 	funsets\Main.scala
+[debug] 	  C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\funsets\src\main\scala\funsets\Main.scala
+[info] Done packaging.
