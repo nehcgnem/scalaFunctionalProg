@@ -31,7 +31,7 @@ object Empty extends IntSet {
   // add new node
   override def toString: String = "."
 
-  def union(other: Int): IntSet = other
+  def union(other: IntSet): IntSet = other
 }
 
 val t1 = new NonEmpty(3, Empty, Empty)
