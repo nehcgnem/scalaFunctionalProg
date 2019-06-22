@@ -1,0 +1,516 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+38 items
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\common\package$.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\common\package.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Expr.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Number$.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Number.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Sum$.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Sum.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Empty.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\IntSet.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\NonEmpty.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Cons.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\List$.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\List$class.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\List.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Nil$.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Nil.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\test$.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\test.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Nat.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Succ.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Zero$.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Zero.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$1.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$createCodeTree$1.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$createCodeTree$2.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$encode$1.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$makeOrderedLeafList$1.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$makeOrderedLeafList$2.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$mergeCodeTables$1.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$quickEncode$1.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$CodeTree.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$Fork$.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$Fork.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf$.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf.class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman.class
+binary dependencies:
+12 items
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> C:\Users\megchen\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> C:\Users\megchen\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> C:\Users\megchen\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> C:\Users\megchen\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> C:\Users\megchen\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\megchen\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+38 items
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> common.package
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> common.package$
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> common.package$$anonfun$subFile$1
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> example.Expr
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> example.Number
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> example.Number$
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> example.Sum
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> example.Sum$
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> example.Empty
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> example.IntSet
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> example.NonEmpty
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> example.Cons
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> example.List
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> example.List$
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> example.List$class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> example.Nil
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> example.Nil$
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> example.test
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> example.test$
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> example.Nat
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> example.Succ
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> example.Zero
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> example.Zero$
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$1
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$encode$1
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$1
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$2
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$mergeCodeTables$1
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$quickEncode$1
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$CodeTree
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Fork
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Fork$
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Leaf
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Leaf$
+used names:
+288 items
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> ::
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> <init>
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> <repeated>
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> ?0
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> A
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> Any
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> AnyRef
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> B
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> Boolean
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> Class
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> File
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> FileInputStream
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> Function2
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> InputStream
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> List
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> None
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> Nothing
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> Object
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> Option
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> Predef
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> Some
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> String
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> URI
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> URL
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> _root_
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> child
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> children
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> classesDir
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> common
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> exists
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> file
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> foldLeft
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> getClass
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> getParentFile
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> getResource
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> io
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> java
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> package
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> projectDir
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> resourceFile
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> resourcePath
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> scala
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> subFile
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> toURI
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> &&
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> <init>
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> ==
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> A
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> AbstractFunction1
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> AbstractFunction2
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> Any
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> AnyRef
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> Boolean
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> Expr
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> IndexOutOfBoundsException
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> Int
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> Iterator
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> None
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> Nothing
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> Number
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> Object
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> Predef
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> Product
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> ScalaRunTime
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> Serializable
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> Some
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> Statics
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> String
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> Sum
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> T
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> T0
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> T1
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> T2
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> Tuple2
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> _hashCode
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> _toString
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> asInstanceOf
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> e1
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> e2
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> eq
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> example
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> finalizeHash
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> isInstanceOf
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> mix
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> n
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> package
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> runtime
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> scala
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> toString
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> typedProductIterator
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> ||
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> +
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> <
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> <init>
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> >
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> Any
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> AnyRef
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> Boolean
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> Empty
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> Int
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> IntSet
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> NonEmpty
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> Object
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> Predef
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> String
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> contains
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> elem
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> example
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> incl
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> left
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> other
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> right
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> scala
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> union
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> x
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> <init>
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> Any
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> AnyRef
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> Boolean
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> Cons
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> Empty
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> List
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> Nil
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> NoSuchElementException
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> NonEmpty
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> Nothing
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> Object
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> Predef
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> String
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> T
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> U
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> elem
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> example
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> head
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> package
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> prepend
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> scala
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> tail
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> test
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> x
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> x1
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> x2
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> xs
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> +
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> -
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> <init>
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> AnyRef
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> Boolean
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> Error
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> Nat
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> Object
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> String
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> Succ
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> Zero
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> example
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> isZero
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> n
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> package
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> predecessor
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> scala
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> that
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> &&
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> +
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> ::
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> :::
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> <
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> <init>
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> <repeated>
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> ==
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> A
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> A1
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> AbstractFunction2
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> AbstractFunction4
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Any
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> AnyRef
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> B
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Bit
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Boolean
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> CanBuildFrom
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Char
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> CodeTable
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> CodeTree
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Coll
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Fork
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Function1
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> GenTraversableOnce
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Huffman
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> IndexOutOfBoundsException
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Int
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Iterator
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Leaf
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> List
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> MatchError
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Nil
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> None
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Nothing
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Object
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Ordering
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Predef
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Product
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> ScalaRunTime
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Serializable
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Some
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Statics
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> String
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> StringOps
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> T
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> T0
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> T1
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> T2
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> T3
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> T4
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> That
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Tuple2
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> Tuple4
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> _1
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> _2
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> _root_
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> _toString
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> a
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> anyHash
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> apply
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> asInstanceOf
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> augmentString
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> b
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> bits
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> c
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> canBuildFrom
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> ch
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> char
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> chars
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> codeBits
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> combine
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> combinehelper
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> common
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> contains
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> convert
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> decode
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> eq
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> finalizeHash
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> flatMap
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> fork
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> frenchCode
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> freqs
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> head
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> immutable
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> isEmpty
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> isInstanceOf
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> l
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> left
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> lookup
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> makeCodeTree
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> makeOrderedLeafList
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> map
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> math
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> mergeCodeTables
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> mix
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> package
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> patmat
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> r
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> remaining
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> right
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> runtime
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> scala
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> secret
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> singleton
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> sortBy
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> str
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> t
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> table
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> tail
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> text
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> times
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> timesRec
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> toInt
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> toList
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> toString
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> traverse
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> tree
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> tree1
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> tree2
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> trees
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> tuples
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> typedProductIterator
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> until
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> weight
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> x
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> ||
+product stamps:
+38 items
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class -> lastModified(1561183142779)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\common\package$.class -> lastModified(1561183142768)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\common\package.class -> lastModified(1561183142710)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Cons.class -> lastModified(1561183142786)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Empty.class -> lastModified(1561183142789)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Expr.class -> lastModified(1561183142791)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\IntSet.class -> lastModified(1561183142794)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\List$.class -> lastModified(1561183142800)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\List$class.class -> lastModified(1561183142803)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\List.class -> lastModified(1561183142797)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Nat.class -> lastModified(1561183142806)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Nil$.class -> lastModified(1561183142816)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Nil.class -> lastModified(1561183142812)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\NonEmpty.class -> lastModified(1561183142820)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Number$.class -> lastModified(1561183142832)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Number.class -> lastModified(1561183142829)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Succ.class -> lastModified(1561183142836)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Sum$.class -> lastModified(1561183142842)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Sum.class -> lastModified(1561183142849)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\test$.class -> lastModified(1561183142863)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\test.class -> lastModified(1561183142860)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Zero$.class -> lastModified(1561183142858)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\example\Zero.class -> lastModified(1561183142855)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$1.class -> lastModified(1561183142905)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$createCodeTree$1.class -> lastModified(1561183142908)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$createCodeTree$2.class -> lastModified(1561183142911)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$encode$1.class -> lastModified(1561183142914)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$makeOrderedLeafList$1.class -> lastModified(1561183142917)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$makeOrderedLeafList$2.class -> lastModified(1561183142920)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$mergeCodeTables$1.class -> lastModified(1561183142923)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$quickEncode$1.class -> lastModified(1561183142925)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$.class -> lastModified(1561183142896)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$CodeTree.class -> lastModified(1561183142928)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$Fork$.class -> lastModified(1561183142938)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$Fork.class -> lastModified(1561183142934)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf$.class -> lastModified(1561183142942)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf.class -> lastModified(1561183142948)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\classes\patmat\Huffman.class -> lastModified(1561183142873)
+source stamps:
+6 items
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> hash(8afd01f9fa1ab4b4e42dabd0d114dfb8e58ad947)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> hash(27736bc93cefcd8e620822e0802d9b53a5e9c9d2)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> hash(4019b759d2f46e25f1997b6e55cbb9138b73ee09)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> hash(b35aebee103296b79d613e8996ae1998e073824b)
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> hash(7496f5ffb1526948835c2e6044e21bb73019622c)
+binary stamps:
+2 items
+C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar -> lastModified(1558377556800)
+C:\Users\megchen\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> lastModified(1509673049000)
+class names:
+2 items
+C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar -> java.lang.Object
+C:\Users\megchen\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> scala.runtime.AbstractFunction2
+internal apis:
+6 items
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwB2GhlgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyb4xfHQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAMJhK6tnQABHdhaXRzcQB+AAzx5+qMdAANJGFzSW5zdGFuY2VPZnNxAH4ADM2K/A90AAZlcXVhbHNzcQB+AAzxbFRpdAAMYXNJbnN0YW5jZU9mc3EAfgAMzsiFSnQADHN5bmNocm9uaXplZHNxAH4ADFjDlPV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMqj2IS3QAF3Jlc291cmNlQXNTdHJlYW1Gcm9tU3Jjc3EAfgAMg3y8U3QACW5vdGlmeUFsbHNxAH4ADCYkqcp0AAxpc0luc3RhbmNlT2ZzcQB+AAxpxNpvdAADPz8/c3EAfgAMmnpgkXQAAj09c3EAfgAM8o3wU3QABWNsb25lc3EAfgAMZ0zWI3QAB3N1YkZpbGVzcQB+AAwkK+HodAAIdG9TdHJpbmdzcQB+AAw/usRqdAACIT1zcQB+AAwIl7qqdAAIZ2V0Q2xhc3NzcQB+AAwIKkOTdAACbmVzcQB+AAwadAmLdAACZXFzcQB+AAyTEjXPdAACIyNzcQB+AAyNdORTdAAIZmluYWxpemVzcQB+AAxU1D+IdAAIaGFzaENvZGVzcQB+AAx7bUT0dAADKioqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB8dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB9c3EAfgBwdAADQW55c3EAfgB0c3EAfgB3dXEAfgB6AAAAAnNxAH4AfHQABXNjYWxhcQB+AIN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWt9xDPNdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAVkM6XFVzZXJzXG1lZ2NoZW5cRG9jdW1lbnRzXEdpdEh1YlxzY2FsYUZ1bmN0aW9uYWxQcm9nXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiFuPEqWyqD2tZY92zB/dZ4o41Kg=
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwH1DkNQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAjc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwcPGe4HQABm5vdGlmeXNxAH4ADI8E/rJ0AAR3YWl0c3EAfgAMTiICiXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMRgkHEHQADSRhc0luc3RhbmNlT2ZzcQB+AAxC48YkdAABbnNxAH4ADHirEpN0AAJlMXNxAH4ADAmW9EF0AAxwcm9kdWN0QXJpdHlzcQB+AAy8IYh2dAAGZXF1YWxzc3EAfgAMoadFz3QABk51bWJlcnNxAH4ADAuHGch0AAxhc0luc3RhbmNlT2ZzcQB+AAznQnDLdAAERXhwcnNxAH4ADJgu9fF0AAxzeW5jaHJvbml6ZWRzcQB+AAwR1t7DdAANJGlzSW5zdGFuY2VPZnNxAH4ADNrCpT50AAhjYW5FcXVhbHNxAH4ADHc3QxV0AA1wcm9kdWN0UHJlZml4c3EAfgAMgEb/wnQACW5vdGlmeUFsbHNxAH4ADF8GVpR0AAxpc0luc3RhbmNlT2ZzcQB+AAw+kUEWdAADU3Vtc3EAfgAM7BBANnQABjxpbml0PnNxAH4ADMbO0JZ0AAI9PXNxAH4ADDROH9V0AAVjbG9uZXNxAH4ADOb6QzB0AAYkaW5pdCRzcQB+AAxtkKGzdAAEY29weXNxAH4ADPYT87F0AAh0b1N0cmluZ3NxAH4ADG4TVrd0AAIhPXNxAH4ADATxUuN0AAhnZXRDbGFzc3NxAH4ADAM6lAB0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADG5QrsZ0AAJlMnNxAH4ADFIyt890AAJuZXNxAH4ADIdLawZ0AAJlcXNxAH4ADBlxT+50AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAz2F7GqdAACIyNzcQB+AAyZ8UAidAAIZmluYWxpemVzcQB+AAwNvNMudAAOcHJvZHVjdEVsZW1lbnRzcQB+AAwNKsjBdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBdeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAAMZXhhbXBsZS5FeHBydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHVzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AXUwACWluaGVyaXRlZHEAfgBdTAAHcGFyZW50c3EAfgBdeHEAfgB6c3EAfgB1dXEAfgBYAAAAAHNxAH4AdXVxAH4AWAAAAABzcQB+AHV1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHl0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW5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
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwv4zHSgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwaeE2/XQABm5vdGlmeXNxAH4ADLVaGrF0AAR3YWl0c3EAfgAM2HMst3QADSRhc0luc3RhbmNlT2ZzcQB+AAzBcxWXdAAFdW5pb25zcQB+AAz84FwtdAAGZXF1YWxzc3EAfgAMp5dD6HQADGFzSW5zdGFuY2VPZnNxAH4ADEKxlAd0AARpbmNsc3EAfgAMBAbFqnQADHN5bmNocm9uaXplZHNxAH4ADNI3Fj10AA0kaXNJbnN0YW5jZU9mc3EAfgAMjaLQJHQACW5vdGlmeUFsbHNxAH4ADKQ2dKB0AAxpc0luc3RhbmNlT2ZzcQB+AAz0lUDbdAAGPGluaXQ+c3EAfgAMzIkgKHQABUVtcHR5c3EAfgAMCPqW13QAAj09c3EAfgAMOvzHEXQABWNsb25lc3EAfgAMaeGyfXQACHRvU3RyaW5nc3EAfgAM/7tYKHQAAiE9c3EAfgAM1aNJunQACGdldENsYXNzc3EAfgAMSGyVe3QACGNvbnRhaW5zc3EAfgAM51SsaHQAAm5lc3EAfgAMLtXL1XQAAmVxc3EAfgAMfOHaTHQABkludFNldHNxAH4ADLROpz10AAhOb25FbXB0eXNxAH4ADA6E2Gd0AAIjI3NxAH4ADF/iRGB0AAhmaW5hbGl6ZXNxAH4ADCy5vKR0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAF0AA5leGFtcGxlLkludFNldHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBjc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AaHNxAH4AY3VxAH4ARgAAAABzcQB+AGN1cQB+AEYAAAAAc3EAfgBjdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBndAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBnc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCAdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCBc3EAfgB0dAADQW55c3EAfgB4c3EAfgB7dXEAfgB+AAAAAnNxAH4AgHQABXNjYWxhcQB+AIdzcQB+AEhxAH4AVXVxAH4AVgAAAABzcQB+AFgAdAAQZXhhbXBsZS5Ob25FbXB0eXVxAH4AWwAAAABxAH4AX3VxAH4AYQAAAABzcQB+AGNxAH4AaXNxAH4AY3NxAH4Aa3NxAH4AY3VxAH4ARgAAAABzcQB+AGN1cQB+AEYAAAAAc3EAfgBjdXEAfgByAAAAA3NxAH4AdHQABkludFNldHNxAH4AeHNxAH4Ae3VxAH4AfgAAAAJzcQB+AIB0AAdleGFtcGxlcQB+AIdzcQB+AHRxAH4Ad3NxAH4AeHNxAH4Ae3VxAH4AfgAAAANzcQB+AIBxAH4Ag3NxAH4AgHEAfgCFcQB+AIdzcQB+AHRxAH4AiXNxAH4AeHNxAH4Ae3VxAH4AfgAAAAJzcQB+AIBxAH4AjnEAfgCHc3EAfgBIcQB+AFV1cQB+AFYAAAAAc3EAfgBYAHQADWV4YW1wbGUuRW1wdHl1cQB+AFsAAAAAcQB+AF91cQB+AGEAAAAAc3EAfgBjcQB+AGlzcQB+AGNzcQB+AGtzcQB+AGN1cQB+AEYAAAAAc3EAfgBjdXEAfgBGAAAAAHNxAH4AY3VxAH4AcgAAAANzcQB+AHR0AAZJbnRTZXRzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAHZXhhbXBsZXEAfgCHc3EAfgB0cQB+AHdzcQB+AHhzcQB+AHt1cQB+AH4AAAADc3EAfgCAcQB+AINzcQB+AIBxAH4AhXEAfgCHc3EAfgB0cQB+AIlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAcQB+AI5xAH4Ah3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2V4YW1wbGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWt9xDPNdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAVkM6XFVzZXJzXG1lZ2NoZW5cRG9jdW1lbnRzXEdpdEh1YlxzY2FsYUZ1bmN0aW9uYWxQcm9nXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUJ3NryTzvzY5iCCLggC2bU6XpydI=
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwBq15iAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAgc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwDYzXP3QABm5vdGlmeXNxAH4ADARpRRh0AAR0ZXN0c3EAfgAMOKe9r3QAAXhzcQB+AAze6c1JdAADTmlsc3EAfgAM1NaxJnQABHdhaXRzcQB+AAxZASdNdAANJGFzSW5zdGFuY2VPZnNxAH4ADG8tW6l0AAdwcmVwZW5kc3EAfgAMrz3MXHQABmVxdWFsc3NxAH4ADC9bTnp0AARoZWFkc3EAfgAMTazxf3QADGFzSW5zdGFuY2VPZnNxAH4ADIATCcB0AAFmc3EAfgAMSQym+HQADHN5bmNocm9uaXplZHNxAH4ADCmenN10AA0kaXNJbnN0YW5jZU9mc3EAfgAMOzr6u3QABHRhaWxzcQB+AAxyTegwdAAEQ29uc3NxAH4ADHG/phV0AAlub3RpZnlBbGxzcQB+AAyRPCTCdAAMaXNJbnN0YW5jZU9mc3EAfgAMYeJoWXQABjxpbml0PnNxAH4ADCt0++J0AAVhcHBseXNxAH4ADFpchu90AAI9PXNxAH4ADEozpp90AAVjbG9uZXNxAH4ADKN6xbZ0AAYkaW5pdCRzcQB+AAyRF9K4dAAIdG9TdHJpbmdzcQB+AAzJFVuTdAACIT1zcQB+AAz1g+/4dAAIZ2V0Q2xhc3NzcQB+AAxlh0npdAAETGlzdHNxAH4ADIhz36N0AAdpc0VtcHR5c3EAfgAMGRNUb3QAAm5lc3EAfgAMcsx61nQAAmVxc3EAfgAMBrK/x3QAAiMjc3EAfgAMIZtb2HQACGZpbmFsaXplc3EAfgAMcTk34HQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AV3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAXQADGV4YW1wbGUuTGlzdHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAABc3IAF3hzYnRpLmFwaS5UeXBlUGFyYW1ldGVyZ2lV2+NykGsCAAZbAAthbm5vdGF0aW9uc3EAfgBcTAACaWRxAH4ADUwACmxvd2VyQm91bmR0ABBMeHNidGkvYXBpL1R5cGU7WwAOdHlwZVBhcmFtZXRlcnNxAH4AWUwACnVwcGVyQm91bmRxAH4AakwACHZhcmlhbmNldAAUTHhzYnRpL2FwaS9WYXJpYW5jZTt4cHVxAH4AYgAAAAB0AA5leGFtcGxlLkxpc3QuVHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdOb3RoaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBxc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB+dXEAfgBnAAAAAHNxAH4Ab3QAA0FueXEAfgB3fnIAEnhzYnRpLmFwaS5WYXJpYW5jZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACUNvdmFyaWFudH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABI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xAH4AfXEAfgCmcQB+AIJzcQB+AG9xAH4AhXNxAH4AdXNxAH4AeHVxAH4AewAAAAJzcQB+AH1xAH4AgHEAfgCCdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHZXhhbXBsZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa33EM811cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABWQzpcVXNlcnNcbWVnY2hlblxEb2N1bWVudHNcR2l0SHViXHNjYWxhRnVuY3Rpb25hbFByb2dccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRAGbdZ0vRuJfGZe25Vy7kTi3PuCQ==
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw1ViuSwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAcc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwECFa7XQABm5vdGlmeXNxAH4ADN3/LUp0AANOYXRzcQB+AAzTNSWTdAAEU3VjY3NxAH4ADECn5Yp0AAR3YWl0c3EAfgAMsO50O3QADSRhc0luc3RhbmNlT2ZzcQB+AAweLGBpdAAGZXF1YWxzc3EAfgAM2HRpzHQABmlzWmVyb3NxAH4ADGAbNQ10AAlzdWNjZXNzb3JzcQB+AAz8WCNkdAAEWmVyb3NxAH4ADB1dqap0AAxhc0luc3RhbmNlT2ZzcQB+AAyCpkX7dAAMc3luY2hyb25pemVkc3EAfgAMIkDarXQADSRpc0luc3RhbmNlT2ZzcQB+AAw/GzH0dAAJbm90aWZ5QWxsc3EAfgAMWOLB43QAAS1zcQB+AAx+9oEVdAAMaXNJbnN0YW5jZU9mc3EAfgAMOD1IF3QABjxpbml0PnNxAH4ADFiFzi90AAI9PXNxAH4ADPhv0oF0AAVjbG9uZXNxAH4ADEIenax0AAh0b1N0cmluZ3NxAH4ADFWhR650AAErc3EAfgAMEjU4anQAAiE9c3EAfgAMm7Q8z3QACGdldENsYXNzc3EAfgAMnduUb3QAAm5lc3EAfgAM/LKPRHQAAmVxc3EAfgAMw15IJXQAC3ByZWRlY2Vzc29yc3EAfgAMro8Ku3QAAiMjc3EAfgAMc3mGYnQACGZpbmFsaXplc3EAfgAM3nf+GnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAA3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AT3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAXQAC2V4YW1wbGUuTmF0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AT0wACWluaGVyaXRlZHEAfgBPTAAHcGFyZW50c3EAfgBPeHEAfgBsc3EAfgBndXEAfgBKAAAAAHNxAH4AZ3VxAH4ASgAAAABzcQB+AGd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGt0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIR0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIVzcQB+AHh0AANBbnlzcQB+AHxzcQB+AH91cQB+AIIAAAACc3EAfgCEdAAFc2NhbGFxAH4Ai3NxAH4ATHEAfgBZdXEAfgBaAAAAAHNxAH4AXAB0AAxleGFtcGxlLlplcm91cQB+AF8AAAAAfnEAfgBhdAAGTW9kdWxldXEAfgBlAAAAAHNxAH4AZ3EAfgBtc3EAfgBnc3EAfgBvc3EAfgBndXEAfgBKAAAAAHNxAH4AZ3VxAH4ASgAAAABzcQB+AGd1cQB+AHYAAAADc3EAfgB4dAADTmF0c3EAfgB8c3EAfgB/dXEAfgCCAAAAAnNxAH4AhHQAB2V4YW1wbGVxAH4Ai3NxAH4AeHEAfgB7c3EAfgB8c3EAfgB/dXEAfgCCAAAAA3NxAH4AhHEAfgCHc3EAfgCEcQB+AIlxAH4Ai3NxAH4AeHEAfgCNc3EAfgB8c3EAfgB/dXEAfgCCAAAAAnNxAH4AhHEAfgCScQB+AItzcQB+AExxAH4AWXVxAH4AWgAAAABzcQB+AFwAdAAMZXhhbXBsZS5TdWNjdXEAfgBfAAAAAHEAfgBjdXEAfgBlAAAAAHNxAH4AZ3EAfgBtc3EAfgBnc3EAfgBvc3EAfgBndXEAfgBKAAAAAHNxAH4AZ3VxAH4ASgAAAABzcQB+AGd1cQB+AHYAAAADc3EAfgB4dAADTmF0c3EAfgB8c3EAfgB/dXEAfgCCAAAAAnNxAH4AhHQAB2V4YW1wbGVxAH4Ai3NxAH4AeHEAfgB7c3EAfgB8c3EAfgB/dXEAfgCCAAAAA3NxAH4AhHEAfgCHc3EAfgCEcQB+AIlxAH4Ai3NxAH4AeHEAfgCNc3EAfgB8c3EAfgB/dXEAfgCCAAAAAnNxAH4AhHEAfgCScQB+AIt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdleGFtcGxlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFrfcQzzXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFZDOlxVc2Vyc1xtZWdjaGVuXERvY3VtZW50c1xHaXRIdWJcc2NhbGFGdW5jdGlvbmFsUHJvZ1xwYXRtYXRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLNa6+4QMpa3nWE+iZauGZjgc4JL
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwoMgVWwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABBc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwEGpG5nQABm5vdGlmeXNxAH4ADOPjQIN0AAxtYWtlQ29kZVRyZWVzcQB+AAww19/AdAAGc2VjcmV0c3EAfgAM+eYOCXQAB3VuYXBwbHlzcQB+AAymkAlEdAAGZW5jb2Rlc3EAfgAMYbD+jXQABndlaWdodHNxAH4ADHtAd9p0AAdjdXJyaWVkc3EAfgAM2fgDJnQABHdhaXRzcQB+AAw/TF2FdAAOY29weSRkZWZhdWx0JDJzcQB+AAyfMkQ+dAANJGFzSW5zdGFuY2VPZnNxAH4ADKFPmqN0AAxwcm9kdWN0QXJpdHlzcQB+AAytikLFdAAGZXF1YWxzc3EAfgAMU0v47nQAC3F1aWNrRW5jb2Rlc3EAfgAMZyVeY3QADGFzSW5zdGFuY2VPZnNxAH4ADJnCMkl0AAxzeW5jaHJvbml6ZWRzcQB+AAwzgt2YdAAEbGVmdHNxAH4ADC8/JqF0AA0kaXNJbnN0YW5jZU9mc3EAfgAM5G1jmHQABnR1cGxlZHNxAH4ADCLp1Md0AAdIdWZmbWFuc3EAfgAMrzPg1XQACGNhbkVxdWFsc3EAfgAM3LgqmXQADmNvcHkkZGVmYXVsdCQ0c3EAfgAM6aMAh3QABGNoYXJzcQB+AAy4FAb8dAAGZGVjb2Rlc3EAfgAMkvT5NHQABExlYWZzcQB+AAzUn/iQdAAIY29kZUJpdHNzcQB+AAwEhdRkdAANcHJvZHVjdFByZWZpeHNxAH4ADLh+4sl0AAV1bnRpbHNxAH4ADNaygLF0AApmcmVuY2hDb2Rlc3EAfgAM9BfrKXQACW5vdGlmeUFsbHNxAH4ADOrGGQ50AAVjaGFyc3NxAH4ADArqKv90AAxpc0luc3RhbmNlT2ZzcQB+AAw0cbMjdAAGPGluaXQ+c3EAfgAM2+5dGXQABWFwcGx5c3EAfgAM/kzrr3QADWRlY29kZWRTZWNyZXRzcQB+AAwk6L+cdAACPT1zcQB+AAwS9KK9dAAFY2xvbmVzcQB+AAwYFyThdAAPbWVyZ2VDb2RlVGFibGVzc3EAfgAMCCr1QHQABXRpbWVzc3EAfgAMS89n5nQABiRpbml0JHNxAH4ADPNo+jJ0AAdjb21iaW5lc3EAfgAMF1EKnnQACHRpbWVzUmVjc3EAfgAMmiZunnQADmNvcHkkZGVmYXVsdCQzc3EAfgAMvj6PcnQABGNvcHlzcQB+AAxf3ETIdAAMc3RyaW5nMkNoYXJzc3EAfgAM1GDg6nQACHRvU3RyaW5nc3EAfgAMjocP53QACXNpbmdsZXRvbnNxAH4ADNqLXi10AAIhPXNxAH4ADKItZap0AAhnZXRDbGFzc3NxAH4ADBoL2sF0AAlDb2RlVGFibGVzcQB+AAxHYPjfdAAOY3JlYXRlQ29kZVRyZWVzcQB+AAxF8kE2dAAOY29weSRkZWZhdWx0JDFzcQB+AAySTXI6dAAERm9ya3NxAH4ADF09CqB0AA1jb21iaW5laGVscGVyc3EAfgAMJcagknQAA0JpdHNxAH4ADLKQ9W90AAJuZXNxAH4ADEPAr8h0ABNtYWtlT3JkZXJlZExlYWZMaXN0c3EAfgAM4KmO8XQACENvZGVUcmVlc3EAfgAMx3RtkXQAAmVxc3EAfgAMh3kEqHQAB2NvbnZlcnRzcQB+AAxeHu7VdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMGa0uBnQABXJpZ2h0c3EAfgAMIaZaiHQAAiMjc3EAfgAMMzCdF3QACGZpbmFsaXplc3EAfgAMVSXXHnQADnByb2R1Y3RFbGVtZW50c3EAfgAM0cBPvXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AmXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADnBhdG1hdC5IdWZmbWFudXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCxc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJlMAAlpbmhlcml0ZWRxAH4AmUwAB3BhcmVudHNxAH4AmXhxAH4AtnNxAH4AsXVxAH4AlAAAAABzcQB+ALF1cQB+AJQAAAAAc3EAfgCxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgC1dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC1c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgDOdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDPc3EAfgDCdAADQW55c3EAfgDGc3EAfgDJdXEAfgDMAAAAAnNxAH4AznQABXNjYWxhcQB+ANV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZwYXRtYXRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWt9xDPNdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAVkM6XFVzZXJzXG1lZ2NoZW5cRG9jdW1lbnRzXEdpdEh1YlxzY2FsYUZ1bmN0aW9uYWxQcm9nXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUdJb1/7FSaUiDXC5gROIbtzAZYiw=
+external apis:
+0 items
+source infos:
+6 items
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\common\package.scala -> 
+AAAAAAAAAAA=
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala -> 
+AAAAAAAAAAA=
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala -> 
+AAAAAAAAAAA=
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala -> 
+AAAAAAAAAAA=
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala -> 
+AAAAAAAAAAA=
+C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa2jP4od1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVkM6XFVzZXJzXG1lZ2NoZW5cRG9jdW1lbnRzXEdpdEh1YlxzY2FsYUZ1bmN0aW9uYWxQcm9nXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa3NgxMZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVkM6XFVzZXJzXG1lZ2NoZW5cRG9jdW1lbnRzXEdpdEh1YlxzY2FsYUZ1bmN0aW9uYWxQcm9nXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa3kk2mJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVkM6XFVzZXJzXG1lZ2NoZW5cRG9jdW1lbnRzXEdpdEh1YlxzY2FsYUZ1bmN0aW9uYWxQcm9nXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa3lQQr51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVkM6XFVzZXJzXG1lZ2NoZW5cRG9jdW1lbnRzXEdpdEh1YlxzY2FsYUZ1bmN0aW9uYWxQcm9nXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa3lcCW11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVkM6XFVzZXJzXG1lZ2NoZW5cRG9jdW1lbnRzXEdpdEh1YlxzY2FsYUZ1bmN0aW9uYWxQcm9nXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa33EM811cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVkM6XFVzZXJzXG1lZ2NoZW5cRG9jdW1lbnRzXEdpdEh1YlxzY2FsYUZ1bmN0aW9uYWxQcm9nXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==

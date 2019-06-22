@@ -1,0 +1,13 @@
+[info] Packaging C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\target\scala-2.11\progfun1-patmat_2.11-0.1-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	example\peano.scala
+[debug] 	  C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\peano.scala
+[debug] 	example\list.scala
+[debug] 	  C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\list.scala
+[debug] 	example\IntSet.scala
+[debug] 	  C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\IntSet.scala
+[debug] 	patmat\Huffman.scala
+[debug] 	  C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\patmat\Huffman.scala
+[debug] 	example\Expr.scala
+[debug] 	  C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\patmat\src\main\scala\example\Expr.scala
+[info] Done packaging.

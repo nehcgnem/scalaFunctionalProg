@@ -187,7 +187,6 @@ object Huffman {
     }
     traverse(tree, bits)
   }
-
   /**
    * A Huffman coding tree for the French language.
    * Generated from the data given at
