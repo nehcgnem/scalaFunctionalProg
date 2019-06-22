@@ -1,8 +1,5 @@
 package example
 
-
-
-
 abstract class Nat {
   def isZero: Boolean
   def predecessor: Nat
@@ -31,5 +28,3 @@ class Succ(n: Nat) extends Nat {
     if (that.isZero) this
     else n .- (that.predecessor) // the number was defined earlier
 }
-
-t
