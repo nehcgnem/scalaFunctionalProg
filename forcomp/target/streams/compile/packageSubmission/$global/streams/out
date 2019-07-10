@@ -1,0 +1,7 @@
+[info] Packaging C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\forcomp\target\scala-2.11\progfun1-forcomp_2.11-0.1-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	forcomp\Anagrams.scala
+[debug] 	  C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\forcomp\src\main\scala\forcomp\Anagrams.scala
+[debug] 	forcomp\package.scala
+[debug] 	  C:\Users\megchen\Documents\GitHub\scalaFunctionalProg\forcomp\src\main\scala\forcomp\package.scala
+[info] Done packaging.
