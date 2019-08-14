@@ -36,16 +36,52 @@ class Pouring(capacity: Vector[Int]) {
       (for (from <- glasses; to <- glasses if from != to) yield Pour(from, to))
 
   //paths
-  class Path(history: List[Move]) {
-    def endState: State = trackState(history)
+  class Path(history: List[Move], val endState: State) {
+    // val makes it accessible outside the class
+    //    def endState: State = trackState(history)
+    // //   def endState: State = (history foldRight initialState)(_ change _);
+    //    private def trackState(xs: List[Move]): State = xs match {
+    //      case Nil => initialState
+    // //   case move :: xs1 => move change trackState(xs1)
+    //      case move :: xs1 => move.change(trackState(xs1))
 
-    private def trackState(xs: List[Move]): State = xs match {
-      case Nil => initialState
-      case move :: xs1 => move change trackState(xs1)
+    def extend(move: Move) = new Path(move :: history, move change endState)
+
+    override def toString = (history.reverse mkString " ") + "--> " + endState + " "
+  }
+
+  val initialPath = new Path(Nil, initialState)
+
+
+  def from(paths: Set[Path], explored: Set[State]): Stream[Set[Path]] = {
+    if (paths.isEmpty) Stream.empty
+    else {
+      val more = for {
+        path <- paths
+        next <- moves map path.extend
+        if !(explored contains next.endState)
+      } yield next
+      paths #:: from(more, explored ++ (more map (_.endState))) // ???
     }
   }
 
+  val pathSets = from(Set(initialPath), Set(initialState))
+  // initial state vs path ???
+
+  def solution(target: Int): Stream[Path] =
+    for {
+      pathSet <- pathSets
+      path <- pathSet
+      if path.endState contains target
+    } yield path
+
 }
 
-val problem = new Pouring(Vector(4, 7, 9))
+
+val problem = new Pouring(Vector(4, 9, 19))
 problem.moves
+
+problem.pathSets.take(3).toList
+
+problem.solution(17)
+

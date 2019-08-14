@@ -1,4 +1,6 @@
-# Lecture 2.4 - Computing with Infinite Sequences
+# Functional Program Design in Scala
+
+## Lecture 2.4 - Computing with Infinite Sequences
 
 #### Infinite Stream
 
@@ -19,6 +21,14 @@ The stream of all multiples of 4:
 ```scala
 nats map(_ * 4)
 ```
+
+Similar result can be achieved by, but generates the results slower. 
+
+```scala
+nats filter (_ % 4 == 0) 
+```
+
+
 
 #### The Sieve of Eratosthenes 
 
@@ -64,5 +74,39 @@ sqrtStream(4).take(20).toList
 
 sqrtStream(4).filter(isGoodEnough(_,4)).take(10).toList
 >res1: List[Double] = List(2.0000000929222947, 2.000000000000002, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0)
+```
+
+## Lecture 2.5 - Case Study: the Water Pouring Problem
+
+Given two cups with different capacity, generate paths to reach the target volume. 
+
+```scala
+package examples
+
+class Pouring(capacity: Vector[Int]) {
+  //States
+
+  type State = Vector[Int]
+  val initialState = capacity map (x => 0)
+
+  //Moves
+  trait Move
+
+  case class Empty(glass: Int) extends Move
+
+  case class Fill(glass: Int) extends Move
+
+  case class Pour(from: Int, to: Int) extends Move
+
+  val glasses = 0 until capacity.length
+
+  val moves =
+      (for (g <- glasses) yield Empty(g)) ++
+      (for (g <- glasses) yield Fill(g)) ++
+      (for (from <- glasses; to <- glasses if from != to) yield Pour(from, to))
+// concatenation 
+
+}
+
 ```
 
